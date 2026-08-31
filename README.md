@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Dhruv Kandwal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+GGSIPU;Data+Science+%26+Machine+Learning;Turning+Data+into+Decisions;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40;Data+Science+%26+Machine+Learning;Turning+Data+into+Decisions;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </p>
 
 ---
