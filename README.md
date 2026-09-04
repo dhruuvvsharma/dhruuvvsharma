@@ -1,85 +1,82 @@
-<h1 align="center">Hi there 👋 I'm Dhruv Kandwal</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40;Data+Science+%26+Machine+Learning;Turning+Data+into+Decisions;Always+Learning%2C+Always+Building" alt="Typing SVG" />
-</p>
+# Dhruv // README.md
 
----
+</div>
 
-## 🧑‍💻 About Me
+<table>
+<tr>
+<td>
 
-- 🎓 3rd-year B.Tech Computer Science student at **Guru Gobind Singh Indraprastha University**
-- 📊 Focused on **Data Science & Machine Learning**, with DSA foundation
-- 🚀 Building projects to move from **theory → production thinking**
-- 🌱 Currently sharpening skills in **Statistics, EDA, Feature Engineering & ML**
-- 🎯 Working toward a **Data Science / ML internship**
-- 💬 Ask me about Python, Pandas, SQL
+```
+dhruv@devbox
+────────────
+OS       : Windows 11
+Role     : Data Scientist
+Track    : Deep Learning, MLOps, GenAI + Agentic AI
+Shell    : jupyter / vscode
+Languages: Python, SQL
+Focus    : Data Science, Machine Learning
+```
 
----
-
-## 🛠️ Tech Stack
-
-**Languages & Core**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Data Science & ML**
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=Matplotlib&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-**Web / Backend**
-![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**MLOps (Exploring)**
-![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
-
-**Tools**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+### // scratchpad note
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dhruuvvsharma&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruuvvsharma&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+```
+-- ================================================
+-- STATUS: comfortable here, restless anyway
+-- ================================================
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruuvvsharma&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🌐 Socials
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/dhruv-kandwal-690b9b340/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/bettercalldhhruv" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@dhruvplzstawp" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://www.kaggle.com/dhruvloveskaggling" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-  <a href="mailto:dhruv.10040@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+local note = [[
+Dhruv can already take a dataset to a working model.
+The part that interests him now is everything after that —
+what breaks it, what scales it, what makes it agentic.
+]]
+```
 
 ---
 
-<p align="center"><i>⭐️ From <a href="https://github.com/dhruuvvsharma">dhruuvvsharma</a> — building one project at a time.</i></p>
+## `$ whoami`
+
+```yaml
+name:        Dhruv
+studying:    B.Tech CSE, Data Science 
+based_in:    India
+
+currently_building:
+  - Credit Card Customer Intelligence Platform
+
+currently_learning:
+  - Deep Learning
+  - NLP
+  - MLOps
+
+philosophy: "A model isn't finished when it's accurate. It's finished when it's live."
+```
+
+---
+
+## Focus & Stack
+
+- **Active Domains:** Data Science, Machine Learning, Exploratory Data Analysis
+- **Core Languages:** Python, SQL
+- **Tools & Libraries:** NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, etc.
+- **Projects:** [Black Friday Sales Prediction](https://github.com/dhruuvvsharma/Black-Friday-Sales-Prediction) · [NOX](https://github.com/dhruuvvsharma/nox-ai-assistant)
+
+---
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GITHUB-dhruuvvsharma-181717?style=for-the-badge&logo=github)](https://github.com/dhruuvvsharma)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-dhruv--kandwal-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dhruv-kandwal-690b9b340/)
+[![Email](https://img.shields.io/badge/EMAIL-dhruv.10040%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:dhruv.10040@gmail.com)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-bettercalldhhruv-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/bettercalldhhruv)
+[![Kaggle](https://img.shields.io/badge/KAGGLE-dhruvloveskaggling-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/dhruvloveskaggling)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-coming--soon-4B5563?style=for-the-badge)](#)
+
+</div>
