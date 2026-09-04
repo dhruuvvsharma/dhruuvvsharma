@@ -1,6 +1,5 @@
 <div align="center">
 
-# Dhruv // README.md
 
 </div>
 
