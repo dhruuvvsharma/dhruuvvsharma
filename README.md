@@ -1,5 +1,6 @@
 <div align="center">
 
+![Dhruv // README.md](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header&text=Dhruv%20//%20README.md&fontSize=38&fontColor=ffffff&animation=fadeIn)
 
 </div>
 
@@ -24,7 +25,7 @@ Focus    : Data Science, Machine Learning
 
 ---
 
-### // scratchpad note
+![// scratchpad note](https://img.shields.io/badge/-%2F%2F%20scratchpad%20note-FDCB6E?style=flat-square&labelColor=2D2D2D)
 
 ```
 -- ================================================
@@ -44,7 +45,7 @@ what breaks it, what scales it, what makes it agentic.
 
 ```yaml
 name:        Dhruv
-studying:    B.Tech CSE, Data Science 
+studying:    B.Tech CSE, Data Science specialization
 based_in:    India
 
 currently_building:
@@ -76,6 +77,6 @@ philosophy: "A model isn't finished when it's accurate. It's finished when it's 
 [![Email](https://img.shields.io/badge/EMAIL-dhruv.10040%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:dhruv.10040@gmail.com)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-bettercalldhhruv-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/bettercalldhhruv)
 [![Kaggle](https://img.shields.io/badge/KAGGLE-dhruvloveskaggling-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/dhruvloveskaggling)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-coming--soon-4B5563?style=for-the-badge)](#)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-visit--now-4B5563?style=for-the-badge)](https://portfolio-three-phi-t5l04xdwc6.vercel.app/)
 
 </div>
