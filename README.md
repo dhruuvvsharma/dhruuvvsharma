@@ -34,7 +34,7 @@ Focus    : Data Science, Machine Learning
 
 local note = [[
 Dhruv can already take a dataset to a working model.
-The part that interests him now is everything after that —
+The part that interests him now is everything after that
 what breaks it, what scales it, what makes it agentic.
 ]]
 ```
